@@ -13,7 +13,7 @@ Developed microservices with Node.js for an e-commerce system.
 Created a user management system with JWT authentication.
 
 - 📚 Currently Learning:
-Framework: Vuejs
+Vuejs Framework
 
 🔗 Let's Connect:
 Email: emilioejoao@gmail.com
