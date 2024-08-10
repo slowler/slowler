@@ -1,6 +1,6 @@
 - 👋 Hello! I'm Emílio João, a Backend Developer passionate about creating efficient and scalable solutions.
 
-- 🔧 Skills:
+- 🔧 Skills | 
 Languages: PHP, JavaScript
 Frameworks: Laravel, Node.js
 Databases: MySQL, SQL Server, Oracle, Hana DB
