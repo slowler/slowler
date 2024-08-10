@@ -9,6 +9,7 @@ Tools: Git
 
 - 🚀 Recent Projects:
 Implemented a Laravel 11 project that converts SOAP APIs to REST.
+Developed a Laravel project for KRN updates, specifically designed for the TIDROLLOVER event to update the security keys of prepaid meters
 Developed microservices with Node.js for an e-commerce system.
 Created a user management system with JWT authentication.
 
